@@ -95,7 +95,7 @@ Tab:AddButton({
 Tab:AddButton({
     Name = "hex233222 Hub (Update2)",
     Callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/Y7uh3UZf"))();
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tiendung22136/script-test-02/refs/heads/main/Script%20test%2002"))();
     end
 })
 
