@@ -151,7 +151,7 @@ Tab:AddButton({
 Tab:AddButton({
     Name = "hex233222 Hub (Lag Reduce Update)",
     Callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/H3u62n7D"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tiendung22136/Script-test-04/refs/heads/main/Script%20test%2004"))()
     end
 })
 
@@ -159,7 +159,7 @@ Tab:AddButton({
 Tab:AddButton({
     Name = "Zyra's Hub (Small Update1)",
     Callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/N4Y01FkS"))();
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tiendung22136/Script-test-08/refs/heads/main/Script%20test%2008"))();
     end
 })
 
