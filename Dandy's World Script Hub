@@ -2,7 +2,7 @@ local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tien
 
 
 local Window = OrionLib:MakeWindow({
-    Name = "Dandy's World Script Moment",
+    Name = "Dandy's World Script Moment by TienDung",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "Name" -- Put the name of your hub or script here!
